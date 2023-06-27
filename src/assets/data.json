@@ -1,0 +1,34 @@
+{
+    "projects": [
+      
+      {
+        "date": "27/06/2023",
+        "title": "PORTFOLIO",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "/",
+        "imgSrc": "https://i.postimg.cc/wj8Y4RnZ/2023-06-28.png"
+      },
+      {
+        "date": "01/06/2023",
+        "title": "AXCrypto",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "https://axcrypto.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+      },
+  
+      {
+        "date": "17/10/2022",
+        "title": "Amazing Art Website",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "/",
+        "imgSrc": "https://i.postimg.cc/4N5jZ1vL/IMG-20230628-004941.jpg"
+      },
+      {
+        "date": "20/10/2022",
+        "title": "Gym Website",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "/",
+        "imgSrc": "https://i.postimg.cc/kgRZ8d3Z/IMG-20230628-005336.jpg"
+      }
+    ]
+  }
