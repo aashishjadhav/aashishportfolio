@@ -9,7 +9,7 @@ const Home = ({ ratio }) => {
   const projectCount = useRef(null);
 
   const animationClientsCount = () => {
-    animate(0, 2, {
+    animate(0, 1, {
       duration: 1,
       onUpdate: (v) => (clientCount.current.textContent = v.toFixed()),
     });
@@ -78,7 +78,7 @@ const Home = ({ ratio }) => {
                 ></motion.span>
               )}
             </p>
-            <span>Clients Worldwide</span>
+            <span>Internship Done</span>
           </article>
 
           <aside>
